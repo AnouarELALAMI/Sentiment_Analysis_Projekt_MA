@@ -16,10 +16,10 @@ Zunächst wurde ein kleinerer Dataframe erstellt, um verschiedene Transformer-Mo
 Insgesamt haben wir vier verschiedene Transformer ausprobiert.
 Schlussendlich haben wir uns für den Roberta Transformer entschieden, da dieser die Stimmung der Tweets am genauesten wiedergab.
 
- 4.Analyse :
- In diesem abschließenden Schritt wurden die Daten durch Diagramme und Plots detailliert analysiert. Unser Fokus lag auf der Untersuchung der 
- Verteilung der Sentiments und der Identifikation von Mustern in den Daten. Tweets, die weniger als 4 Wörter enthielten, wurden entfernt, da sie 
- keinen substantiellen Inhalt für eine sinnvolle Analyse boten. Diese Entscheidung basierte auf der Prämisse, dass kürzere Tweets tendenziell weniger 
- aussagekräftig sind und somit weniger relevante Informationen für die Sentiment-Analyse liefern.
+4.Analyse :
+In diesem abschließenden Schritt wurden die Daten durch Diagramme und Plots detailliert analysiert. Unser Fokus lag auf der Untersuchung der 
+Verteilung der Sentiments und der Identifikation von Mustern in den Daten. Tweets, die weniger als 4 Wörter enthielten, wurden entfernt, da sie 
+keinen substantiellen Inhalt für eine sinnvolle Analyse boten. Diese Entscheidung basierte auf der Prämisse, dass kürzere Tweets tendenziell weniger 
+aussagekräftig sind und somit weniger relevante Informationen für die Sentiment-Analyse liefern.
 
 https://www.kaggle.com/code/wesleyliao3/sentiment-analysis-using-rnn-lstm-ulmfit
